@@ -181,3 +181,5 @@ $(document).ready(function(){
       $(this).toggleClass("heart");
   });
 });
+
+// Cursor Effect
